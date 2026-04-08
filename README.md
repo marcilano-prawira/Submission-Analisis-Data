@@ -2,7 +2,7 @@
 
 ## Setup Environment - Anaconda
 ```
-conda create --name aubmission python=3.9
+conda create --name submission python=3.9
 conda activate submission
 pip install -r requirements.txt
 ```
