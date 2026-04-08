@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard 
+# Analisis Data Bike Sharing (2011-2012)
 
 ## Setup Environment - Anaconda
 ```
